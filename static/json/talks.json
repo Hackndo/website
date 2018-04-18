@@ -1124,7 +1124,7 @@
     "venue_id": "46",
     "video_url": "https://www.youtube.com/watch?v=JWB2W6tWz5Y"
   },
-    {
+  {
     "description": "En début d'année, il y a eu beaucoup de bruit dans la sphère de la sécurité informatique. Les mots Meltdown et Spectre ont fait la une de plusieurs journaux et sites d’information, qu’ils soient spécialisés ou généralistes. Ce talk est une revue technique accessible permettant de mieux comprendre les mécanismes en jeu, les impacts, ainsi que les moyens de réduire les risques.",
     "event_end": "2018-03-29T17:30:00Z",
     "event_start": "2018-03-29T17:05:00Z",
